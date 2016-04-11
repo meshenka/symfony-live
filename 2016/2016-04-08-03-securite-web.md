@@ -2,8 +2,9 @@
 
 ## Sécurité web: pirater pour mieux protéger
 Par Alain Tiemblo @ninsuo (Resp securité chez BlaBlaCar)
+Slides https://github.com/ninsuo/slides
 
-Il nous a présenter certaines technique de hacking
+Il nous a présenté certaines technique de hacking
   * SQL Injection,
   * XSS,
   * Framability,
@@ -46,5 +47,3 @@ du HTML fourni par un editeur WYSIWYG
 
 Une recommandation: **Utiliser les token CSRF sur vos form de login et vos boutons
  de logout.**
-
- 

@@ -2,10 +2,9 @@
 
 ## Le reveil du Workflow
 Par Grégoire Pineau, @lyrixx (Blackfire.io)
-Slides : https://speakerdeck.com/lyrixx/le-reveil-du-workflows
+Slides : https://speakerdeck.com/lyrixx/le-reveil-du-workflow
 
-Présentation du futur composant symfony/workflow qui arrive dans Symfony3.2 (dans 6 mois quoi)
-
+  * Demo: http://symfony-workflow-demo.herokuapp.com/show/1
   * app de démo ici https://github.com/lyrixx/SFLive-Paris2016-Workflow
   * la PR qui donne tous les détails https://github.com/symfony/symfony/pull/11882#discussion_r58851472
 
