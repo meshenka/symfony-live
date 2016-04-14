@@ -26,5 +26,13 @@ interface GuardAuthenticatorInterface extends AuthenticationEntryPointInterface
     public function supportsRememberMe();
 }
 ```
-
+Il a montré par la suite plusieurs implémentations
+  * authentification via token dans l'url
+  * authentification via header http customs
+  * authentification via oauth2
+  * authentification via cas
+  * Chainage de différentes méthodes
+  
+ 
+  
 
