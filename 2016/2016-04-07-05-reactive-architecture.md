@@ -1,7 +1,8 @@
 # Symfony Live Paris 2016
 
 ## Retour d'expérience Reactive Architecture et Microservices : Comment découpler mes applications ?
-Par Fabien Meurillon, @FabienM Architect/Technical Expert, Smile
+Par Fabien Meurillon, [@FabienM](https://twitter.com/FabienM) Architect/Technical Expert, Smile
+
 Slides : http://fabien.meurillon.org/sfLive2016/#1
 
 Architecture Reactive:
