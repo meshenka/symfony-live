@@ -1,7 +1,8 @@
 # Symfony Live Paris 2016
 
 ## PHP Meminfo ou la chasse aux memory leak
-Par Benoit Jaquemont @BJacquemont DT chez Akeneo (ex DT Smile Group)
+Par Benoit Jaquemont [@BJacquemont](https://twitter/com/BJacquemont) DT chez Akeneo (ex DT Smile Group)
+
 Slides : https://speakerdeck.com/bitone/hunting-down-memory-leaks-with-php-meminfo
 
 ### Présentation du memory leak
