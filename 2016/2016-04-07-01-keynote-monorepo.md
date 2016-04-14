@@ -1,7 +1,7 @@
 # Symfony Live Paris 2016
 
 ## Keynote d'ouverture
-Par Fabien Potencier @fabpot (CEO, Blackfire.io, Fondateur de Symfony1/2/3, +++)
+Par Fabien Potencier [@fabpot](https://twitter.com/fabpot) (CEO, Blackfire.io, Fondateur de Symfony1/2/3, +++)
 
 Il a parlé du processus de contribution et de livraison de Symfony2
 
