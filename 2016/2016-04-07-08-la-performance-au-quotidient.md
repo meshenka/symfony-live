@@ -1,7 +1,8 @@
 # Symfony Live Paris 2016
 
 ## Performance au quotidien dans un environnement Symfony
-Xavier Leune @beoneself (CCM Benchmark Group/Groupe Figaro)
+Xavier Leune [@beoneself](https://twitter.com/beoneself) (CCM Benchmark Group/Groupe Figaro)
+
 Slides : http://fr.slideshare.net/xavierleune/performance-au-quotidien-dans-un-environnement-symfony
 
 Les chiffres totaux: 700 Millions de pages vue par mois

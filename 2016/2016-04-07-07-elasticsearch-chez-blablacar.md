@@ -1,7 +1,7 @@
 # Symfony Live Paris 2016
 
 ## ElasticSearch chez Blablacar
-Olivier Dolbeau @odolbeau Blablacar
+Olivier Dolbeau [@odolbeau](https://twitter.com/odolbeau) Blablacar
 
 Les slides sont ici https://speakerdeck.com/odolbeau/elasticsearch-chez-blablacar
 

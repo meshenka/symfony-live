@@ -1,7 +1,8 @@
 # Symfony Live Paris 2016
 
 ## Sécurité web: pirater pour mieux protéger
-Par Alain Tiemblo @ninsuo (Resp securité chez BlaBlaCar)
+Par Alain Tiemblo [@ninsuo](https://twitter.com/ninsuo) (Resp securité chez BlaBlaCar)
+
 Slides https://github.com/ninsuo/slides
 
 Il nous a présenté certaines technique de hacking

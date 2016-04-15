@@ -1,7 +1,7 @@
 # Symfony Live Paris 2016
 
 ## PSR-6 & Symfony Cache : de la perf en standard
-Par Nicolas Grekas @nicolasgrekas (CTO blackfire.io)
+Par Nicolas Grekas [@nicolasgrekas](https://twitter.com/nicolasgrekas) (CTO blackfire.io)
 
 On nous a présenter la PSR-6 (Interoprable Cache API) et son implémentation
 strict dans le composant symfony/cache https://github.com/symfony/cache

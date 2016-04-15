@@ -1,7 +1,8 @@
 # Symfony Live Paris 2016
 
 ## Aller plus loin avec Doctrine2
-Par André Tapia et Amine Mokeddem @nh293 (Doctrine Core Developpers + Webnet)
+Par André Tapia et Amine Mokeddem [@nh293](https://twitter.com/nh293) (Doctrine Core Developpers + Webnet)
+
 Slides : http://blog.webnet.fr/wp-content/uploads/2016/04/2016-04-06-FINAL-Pr%C3%A9sentation-SymfonyLive-Doctrine2.pdf
 
 Nous avons vue:
