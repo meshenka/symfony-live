@@ -1,7 +1,7 @@
 # Symfony Live Paris 2016
 
 ## Le reveil du Workflow
-Par Grégoire Pineau, @lyrixx (Blackfire.io)
+Par Grégoire Pineau, [@lyrixx](https://twitter.com/lyrixx) (Blackfire.io)
 Slides : https://speakerdeck.com/lyrixx/le-reveil-du-workflow
 
   * Demo: http://symfony-workflow-demo.herokuapp.com/show/1
